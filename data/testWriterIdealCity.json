@@ -1,0 +1,20 @@
+{
+    "land": {"facilities": [
+        {
+            "revenue": 50,
+            "level": 1,
+            "name": "Residence"
+        },
+        {
+            "revenue": 400,
+            "level": 2,
+            "name": "Restaurant"
+        },
+        {
+            "revenue": 300,
+            "level": 3,
+            "name": "Police office"
+        }
+    ]},
+    "account": {"balance": 200}
+}
